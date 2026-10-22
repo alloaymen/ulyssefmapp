@@ -12,7 +12,7 @@
   },
   "app_control": {
     "maintenance": true,
-    "maintenance_message": "البث في حالة صيانة حالياً، سنعود قريباً",
+   "maintenance_message": "La diffusion est actuellement en maintenance, nous serons de retour très bientôt."
     "min_version": "1.0.0",
     "force_update": false,
     "update_url": "https://play.google.com/store/apps/details?id=com.ulyssefm.app",
