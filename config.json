@@ -11,11 +11,11 @@
     "admob_banner_id": "ca-app-pub-2822713824006778/2181822445"
   },
   "app_control": {
-    "maintenance": true,
+    "maintenance": false,
     "maintenance_title": "Maintenance",
     "maintenance_message": "La diffusion est actuellement en maintenance, nous serons de retour très bientôt.",
     "min_version": "1.0.0",
-    "force_update": false,
+    "force_update": true,
     "update_title": "Mise à jour requise",
     "update_message": "Veuillez mettre à jour l'application pour continuer à écouter.",
     "update_button_text": "Mettre à jour",
