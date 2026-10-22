@@ -11,7 +11,7 @@
     "admob_banner_id": "ca-app-pub-2822713824006778/2181822445"
   },
   "app_control": {
-    "maintenance": false,
+    "maintenance": true,
     "maintenance_title": "Maintenance",
     "maintenance_message": "La diffusion est actuellement en maintenance, nous serons de retour très bientôt.",
     "min_version": "1.0.0",
